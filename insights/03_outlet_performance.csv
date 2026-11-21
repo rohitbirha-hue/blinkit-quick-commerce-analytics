@@ -1,0 +1,10 @@
+city_tier,Outlet_Type,Outlet_Size,avg_store_age,total_revenue,avg_ticket_per_sku,avg_rating,rank_within_tier,overall_rev_share_pct
+Tier 1,Supermarket Type1,Medium,14.0,132760.39,157.3,3.93,1,11.05
+Tier 1,Supermarket Type1,Small,16.0,130325.15,155.71,3.98,2,10.85
+Tier 1,Grocery Store,Small,28.0,43697.84,52.65,3.93,3,3.64
+Tier 2,Supermarket Type1,Medium,9.5,277731.75,158.7,3.94,1,23.11
+Tier 2,Supermarket Type1,Small,9.0,127885.1,154.82,3.98,2,10.64
+Tier 3,Supermarket Type3,Medium,28.0,185120.7,212.54,3.94,1,15.41
+Tier 3,Supermarket Type2,Medium,6.0,130286.48,155.47,3.95,2,10.84
+Tier 3,Supermarket Type1,High,26.0,128559.04,151.6,3.97,3,10.7
+Tier 3,Grocery Store,Small,15.0,45189.99,51.41,3.96,4,3.76
